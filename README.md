@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <i><b>Software Developer | 19y | Backend & Low-Level Enthusiast</b></i>
+  <i><b>Software Developer | 19y | Backend Enthusiast</b></i>
 </p>
 
 <div align="center">
@@ -25,7 +25,7 @@
 ### <p align="center">`whoami`</p>
 
 <p align="center">
-  Sou um desenvolvedor de software de 19 anos focado em criar aplicações eficientes, escaláveis e bem estruturadas. Minha paixão reside em engenharia de backend, automação, desenvolvimento de APIs e programação de baixo nível, buscando sempre entender como as coisas funcionam "por baixo dos panos".
+  I'm a 19-year-old software developer focused on creating efficient, scalable, and well-structured applications. I work primarily with JavaScript, Python, and C, and I enjoy exploring topics like backend engineering, automation and API development. I’m always learning new tools and technologies such as Node.js, Express, React, Docker, and Git to expand my skill set and improve as a developer. I also enjoy contributing to open-source projects and building tools that make development easier.
 </p>
 
 <br>
